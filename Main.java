@@ -2,6 +2,9 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello World! I'm in new branch");
+        System.out.println("Hello World! I'm in new branch");
+        System.out.println("Doing first commit");
+        System.out.println("Doing second commit");
+        System.out.println("Doing third commit");
     }
 }
